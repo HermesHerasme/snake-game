@@ -1,2 +1,2 @@
 # snake-game
-LINK 
+LINK https://hermesherasme.github.io/snake-game/
